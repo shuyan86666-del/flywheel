@@ -1,0 +1,11 @@
+.git
+.gitignore
+.dockerignore
+.venv
+__pycache__
+*.pyc
+.env
+.env.*
+output
+samples_backup
+数据飞轮方案*.md
